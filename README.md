@@ -45,6 +45,7 @@
 ## Miscellaneous
 
 - [opentui-doom](https://github.com/muhammedaksam/opentui-doom) - Play DOOM in your terminal using OpenTUI's framebuffer rendering.
+- [present-drop](https://github.com/msmps/present-drop) - A festive terminal game built with OpenTUI - control Santa to drop presents and destroy evil snowmen.
 
 ## Contributing
 
